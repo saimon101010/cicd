@@ -1,5 +1,0 @@
-
-- pipeline.id: app-py
-  pipeline.workers: 1
-  pipeline.batch.size: 1
-  path.config: "./pipelines/app-py.conf"
